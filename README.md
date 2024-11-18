@@ -8,7 +8,6 @@ This repository contains a Jupyter Notebook implementation of the Google Deep Dr
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -46,10 +45,6 @@ To run the Jupyter Notebook locally, you need to have Python and the following d
 3. Upload an image you want to transform.
 4. Configure the settings (layer, intensity, etc.) as desired.
 5. Run the notebook cells to generate and visualize Deep Dream images.
-
-## Examples
-Here are some example transformations generated using the notebook:
-
 
 
 ## Contributing
