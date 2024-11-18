@@ -50,9 +50,7 @@ To run the Jupyter Notebook locally, you need to have Python and the following d
 ## Examples
 Here are some example transformations generated using the notebook:
 
-| Original Image | Deep Dream Transformed |
-| -------------- | ---------------------- |
-| ![Original Image](example_images/original.jpg) | ![Deep Dream Image](example_images/deep_dream.jpg) |
+
 
 ## Contributing
 Contributions are welcome! If you have ideas for enhancing this project or fixing any issues, please open an issue or submit a pull request.
