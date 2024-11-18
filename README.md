@@ -1,8 +1,8 @@
 
 # Google Deep Dream
 
-This repository contains a Jupyter Notebook implementation of the Google Deep Dream algorithm. Deep Dream is a computer vision program that uses a convolutional neural network to find and enhance patterns in images through algorithmic pareidolia, creating a dream-like psychedelic appearance.
-
+*Deep Dream* focuses on visualizing and amplifying features or patterns learned by a deep neural network, often by feeding an image through a trained network and iteratively adjusting the input image to maximize activations of a specific layer.
+The idea is to highlight features that the network has "learned," resulting in intricate, dream-like imagery that reveals how the network "sees" patterns and structures in the data.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
